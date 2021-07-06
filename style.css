@@ -1,0 +1,85 @@
+body{
+    margin:0;
+}
+.orange-color{
+    color:orange;
+}
+.first-block h1{
+    font-size: 42px;
+    color: rgb(102, 95, 95);
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    
+}
+.first-block h4{
+    color: rgba(128, 128, 128, 0.651);
+}
+.first-block{
+    display:flex;
+
+    
+}
+.first-block-leftsection{
+    width:50%;
+    margin-top: 180px;
+    margin-left: 80px;
+    
+}
+
+
+.img1{
+    width:90%;
+    margin-left: 50px;
+    margin-top: 40px;
+    
+}
+.img2{
+    width:42%;
+    margin-left:180px ;
+    margin-top: 40px;
+
+}
+.button-link{
+    text-decoration: none;
+    color:white;
+    padding:10px 30px;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 20px;
+
+
+}
+#sec2-rightside{
+    text-align: left;
+    width:50%;
+    margin-top: 100px;
+    margin-left: 0px;
+    margin-right: 80px;
+}
+.section2{
+    margin-top: 100px;
+    display:flex;
+    background-image: url(images/shapes/7.png);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+.Gray-head{
+    font-size: 40px;
+    color: rgb(102, 95, 95);
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+}
+.paras{
+font-family: 'Manrope', sans-serif;
+font-size: 18px;
+
+}
+.section3 {
+    margin-top: 5%;
+    margin-left:20%;
+    margin-right:20%;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
