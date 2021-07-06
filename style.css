@@ -35,9 +35,9 @@ body{
     
 }
 .img2{
-    width:42%;
-    margin-left:180px ;
-    margin-top: 40px;
+    width:70%;
+    margin-left:120px ;
+    margin-top: 0px;
 
 }
 .button-link{
@@ -53,8 +53,8 @@ body{
     text-align: left;
     width:50%;
     margin-top: 100px;
-    margin-left: 0px;
-    margin-right: 80px;
+    margin-left: 40px;
+    margin-right: 100px;
 }
 .section2{
     margin-top: 100px;
@@ -63,6 +63,7 @@ body{
     background-position: center;
     background-size: cover;
     margin-bottom: 50px;
+    padding-right: 5%;
 }
 .Gray-head{
     font-size: 40px;
@@ -82,4 +83,52 @@ font-size: 18px;
     text-align: center;
     margin-bottom: 50px;
 
+}
+.section4{
+    margin-left: 10%;
+    margin-right: 10%;
+    display:flex;
+    text-align: center;
+    font-size: 16px;
+    
+}
+.img3{
+    width:300px;
+    height:200px;
+    border-radius: 18px;
+
+}
+.div-pic{
+    box-sizing: content-box;
+    box-shadow: 10px 10px 20px gray;
+    width:30%;
+    padding:10px;
+    margin-right: 12px;
+    margin-left: 12px;
+    margin-bottom: 10px;
+    border-radius: 18px;
+
+}
+.section5{
+    display: flex;
+    margin:80px 18% ;
+    border-radius: 15px;
+    box-shadow:10px 10px 20px gray;
+    padding: 40px 20px;
+    
+}
+.div2{
+    width:32%;
+    text-align: center;
+    margin: auto;   
+}
+.paras1{
+    font-family: 'Manrope', sans-serif;
+    font-size: 13px;
+}
+footer{
+    background-color: black;
+    color:white;
+    padding:10px 5px;
+    text-align: center;
 }
